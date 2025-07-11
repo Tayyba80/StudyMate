@@ -56,7 +56,7 @@
 
 ## 📂 Project Structure
 
-
+```
 StudyMate/
 │
 ├── main.py                    # Entry point of the application
@@ -66,5 +66,5 @@ StudyMate/
 │   └── assignments.py         # Assignment data and logic (list-based)
 ├── assets/                    # Icons, images, and static files (optional)
 └── README.md                  # Project documentation
-
+```
 
